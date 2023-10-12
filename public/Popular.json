@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "location": "Rangamati",
+      "destination_name": "Sajek Valley",
+      "description": "Sajek Valley, nestled in the hills of Rangamati, is a picturesque destination known for its lush green landscapes and breathtaking views. The valley is home to various indigenous communities, offering a unique blend of cultural diversity and natural beauty.",
+      "image": "https://i.ibb.co/xjxc9VD/sajek.png"
+    },
+    {
+      "id": 2,
+      "location": "Sunamgonj",
+      "destination_name": "Shimul Bagan",
+      "description": "Shimul Bagan in Sunamgonj is a beautiful garden adorned with blooming Shimul (silk cotton) trees, creating a vibrant and serene atmosphere. It's a perfect place for nature lovers and those seeking a peaceful retreat.",
+      "image": "https://i.ibb.co/NN55YbJ/simulbagan.png"
+    },
+    {
+      "id": 3,
+      "location": "Sylhet",
+      "destination_name": "Ratargul Swamp Forest",
+      "description": "Ratargul Swamp Forest in Sylhet is a unique and enchanting destination, being the only swamp forest in Bangladesh. Visitors can enjoy a memorable boat ride through thick foliage, immersing themselves in nature's wonders.",
+      "image": "https://i.ibb.co/2gsm03H/ratargul.png"
+    },
+    {
+      "id": 4,
+      "location": "Cox's Bazar",
+      "destination_name": "Saint Martin",
+      "description": "Saint Martin's Island, off the coast of Cox's Bazar, is a tropical paradise with pristine beaches and crystal-clear waters. It's a haven for marine life, making it a must-visit destination for beach enthusiasts and nature lovers.",
+      "image": "https://i.ibb.co/VxwZjL0/saintmartin.png"
+    },
+    {
+      "id": 5,
+      "location": "Sylhet",
+      "destination_name": "Vulagonj",
+      "description": "Vulagonj in Sylhet is known for its picturesque landscapes and vibrant stone quarries. The area offers a unique blend of natural beauty and industrial activity, making it an interesting and visually appealing destination.",
+      "image": "https://i.ibb.co/N7dt1Sc/vulagonj.png"
+    },
+    {
+      "id": 6,
+      "location": "Sylhet",
+      "destination_name": "Jaflong",
+      "description": "Jaflong, situated in Sylhet, is a mesmerizing destination with tea gardens, hills, and the Dawki River. Known for its scenic beauty, Jaflong is a popular spot for both locals and tourists, offering a serene escape from urban life.",
+      "image": "https://i.ibb.co/dDVrSd6/jaflong.png"
+    }
+  ]
+  

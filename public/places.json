@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "location": "Dhaka",
+      "destination_name": "Lalbagh Fort",
+      "description": "Lalbagh Fort, located in the heart of Dhaka, is a 17th-century Mughal fort. It's a historical icon with a stunning blend of architecture and greenery. The fort provides a peaceful escape from the bustling city life.",
+      "image": "https://i.ibb.co/8cc7phL/lalbagh.png"
+    },
+    {
+      "id": 2,
+      "location": "Chittagong",
+      "destination_name": "Cox's Bazar",
+      "description": "Cox's Bazar is renowned for having one of the longest sandy beaches globally, stretching for miles along the Bay of Bengal. The serene beauty of the beach, coupled with vibrant local culture, makes it a must-visit destination.",
+      "image": "https://i.ibb.co/yXj6rWk/cox.png"
+    },
+    {
+      "id": 3,
+      "location": "Sylhet",
+      "destination_name": "Ratargul Swamp Forest",
+      "description": "Explore the enchanting Ratargul Swamp Forest in Sylhet, the only swamp forest in Bangladesh. It offers a unique boat ride experience through the thick foliage and is a paradise for nature lovers and bird watchers.",
+      "image": "https://i.ibb.co/2gsm03H/ratargul.png"
+    },
+    {
+      "id": 4,
+      "location": "Khulna",
+      "destination_name": "Sundarbans",
+      "description": "The Sundarbans, a UNESCO World Heritage Site, is the largest mangrove forest globally and home to the Bengal tiger. Cruise through its intricate river channels and witness the rich biodiversity of this unique ecosystem.",
+      "image": "https://i.ibb.co/N6xP078/sundorban.png"
+    },
+    {
+      "id": 5,
+      "location": "Rangamati",
+      "destination_name": "Kaptai Lake",
+      "description": "Kaptai Lake, nestled in the hills of Rangamati, is the largest man-made lake in Bangladesh. Surrounded by lush greenery, it offers boat rides with breathtaking views and opportunities to experience indigenous tribal culture.",
+      "image": "https://i.ibb.co/nr0tdgJ/kaptai.png"
+    },
+    {
+      "id": 6,
+      "location": "Barisal",
+      "destination_name": "Durga Sagar",
+      "description": "Durga Sagar is one of the largest ponds in southern Asia, located in Barisal. Surrounded by ancient structures and serene landscapes, it's a perfect spot for peaceful reflection and photography enthusiasts.",
+      "image": "https://i.ibb.co/6sCtKvQ/durga-sagor.png"
+    },
+    {
+      "id": 7,
+      "location": "Rajshahi",
+      "destination_name": "Varendra Research Museum",
+      "description": "Varendra Research Museum in Rajshahi is the oldest museum in Bangladesh, showcasing a rich collection of artifacts, sculptures, and manuscripts. It provides a fascinating journey through the region's cultural history.",
+      "image": "https://i.ibb.co/VHnYbgW/barendro.png"
+    },
+    {
+      "id": 8,
+      "location": "Cox's Bazar",
+      "destination_name": "Inani Beach",
+      "description": "Inani Beach, located near Cox's Bazar, offers a tranquil environment away from the crowded main beach. The golden sandy shores and clear blue waters make it an ideal destination for a peaceful seaside retreat.",
+      "image": "https://i.ibb.co/xfTjqHw/inani.png"
+    },
+    {
+      "id": 9,
+      "location": "Dinajpur",
+      "destination_name": "Kantaji Temple",
+      "description": "Kantaji Temple, situated in Dinajpur, is a magnificent example of medieval Hindu architecture in Bangladesh. Dedicated to Lord Krishna, the temple's intricate terracotta ornamentation is a visual delight for visitors.",
+      "image": "https://i.ibb.co/ynY3qRj/mondir.png"
+    }
+  ]
+  
